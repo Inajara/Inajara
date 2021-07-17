@@ -1,15 +1,15 @@
-<h1 align="center">Oi 👋, eu sou Inajara S Lemos</h1>
-<h3 align="center">Entusiasta de sistemas baseados em Linux, sempre aprendendo coisas novas.</h3>
+<h1 align="center">Hi 👋, I'm Inajara S. Lemos</h1>
+<h3 align="center">Fan of Linux, always search for news.</h3>
 
-- 🌱 Cursando atualmente **UFABC, plataforma DIO, PHP, etc.**
+- 🌱 Cursando atualmente **UFABC, DIO, etc.**
 
-- 👨‍💻 Projetos disponíveis em: [https://github.com/Inajara](https://github.com/Inajara)
+- 👨‍💻 Projects on: [https://github.com/Inajara](https://github.com/Inajara)
 
-- 💬 Dúvidas **manda e-mail.**
+- 💬 Questions? **send e-mail.**
 
-- 📫 Entre em contato: **inajaralemos1@gmail.com/inajaralemos1@hotmail.com**
+- 📫 Contact: **inajaralemos1@gmail.com/inajaralemos1@hotmail.com**
 
-- 📄 Experiências: [https://www.linkedin.com/in/inajara-silva-lemos-70886919a](https://www.linkedin.com/in/inajara-silva-lemos-70886919a)
+- 📄 Experiences: [https://www.linkedin.com/in/inajara-silva-lemos-70886919a](https://www.linkedin.com/in/inajara-silva-lemos-70886919a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
