@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inajara S. Lemos</h1>
 <h3 align="center">Fan of Linux, always search for news.</h3>
 
-- 🌱 Cursando atualmente **UFABC, DIO, etc.**
+- 🌱 Studying on **UFABC, DIO, etc.**
 
 - 👨‍💻 Projects on: [https://github.com/Inajara](https://github.com/Inajara)
 
