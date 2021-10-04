@@ -1,6 +1,6 @@
 ### Olá! Eu sou Inajara Silva Lemos
 </br>
-- 🔭 Busco colocação como desenvolvedora fullstack, front-end ou back-end.
+- 🔭 Busco colocação como desenvolvedora fullstack ou front-end.
 - 🌱 Estudando VueJS, ReactJS e estrutura de dados em Javascript
 - 😄 Pronomes: ela/dela
 </br></br>
@@ -25,6 +25,7 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="right" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633294285753.png">
 </div>
 </br></br>
