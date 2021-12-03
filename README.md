@@ -1,7 +1,6 @@
 ### Olá! Eu sou Inajara Silva Lemos
 </br>
 - 🔭 Busco colocação como desenvolvedora fullstack ou front-end.
-- 🌱 Estudando VueJS, ReactJS e estrutura de dados em Javascript
 - 😄 Pronomes: ela/dela
 </br></br>
 <div align="center">
