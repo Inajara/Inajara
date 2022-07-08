@@ -41,3 +41,5 @@ src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&l
   <a href = "mailto:inajaralemos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:inajaralemos1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+
+![snake gif](https://github.com/Inajara/Inajara/blob/output/github-contribution-grid-snake.svg)
