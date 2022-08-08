@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou Inajara Silva Lemos </h1>
 </br>
-- 🔭 Starter .NET na GFT
+- 🔭 Starter .NET na GFT</br>
 - 😄 Pronomes: ela/dela
 </br></br>
 <h2>Como anda meu repositório:</h2>
