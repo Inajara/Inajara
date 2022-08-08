@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou Inajara Silva Lemos </h1>
 </br>
-- 🔭 Busco colocação como desenvolvedora fullstack, back-end e/ou front-end.
+- 🔭 Starter .NET na GFT
 - 😄 Pronomes: ela/dela
 </br></br>
 <h2>Como anda meu repositório:</h2>
