@@ -8,11 +8,38 @@
 <div align="center">
   <a href="https://github.com/Inajara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inajara"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inajara"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inajara&layout=compact"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Inajara"/>
 </div>
  </br></br>
- <h2>Linguagens e Tecnologias:</h2>
+ <h2>Repositórios favoritos:</h2>
+ <a href="https://github.com/Inajara/portfolio-web-model">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=portfolio-web-model" />
+  </a>
+  <a href="https://github.com/Inajara/noticias-climaticas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=noticias-climaticas" />
+  </a>
+  </br></br>
+  <h2>Repositórios em incubação:</h2>
+ <a href="https://github.com/Inajara/URI-resolvidos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=URI-resolvidos" />
+  </a>
+  <a href="https://github.com/Inajara/WebAPI-MacorattiUdemyCurso">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=WebAPI-MacorattiUdemyCurso" />
+  </a>
+  <a href="https://github.com/Inajara/MicrosservicosNET">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=MicrosservicosNET" />
+  </a>
+  </br></br>
+  <h2>Repositórios em revisão:</h2>
+ <a href="https://github.com/Inajara/Mvc-basico">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=Mvc-basico" />
+  </a>
+  <a href="https://github.com/Inajara/JsTsDoZeroAndBeyond">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=JsTsDoZeroAndBeyond" />
+  </a>
+  </br></br>
+ <h2>Linguagens:</h2>
 </br>
   <div style="display: inline_block"><br>
   
@@ -23,13 +50,21 @@
   <img align="center" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" height="30" width="40" 
 src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</div>
+</br></br>
+<h2>Tecnologias:</h2>
+</br>
+  <div style="display: inline_block"><br>
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   </br>
     <img align="right" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633294285753.png">
 </div>
