@@ -29,9 +29,6 @@
   </a>
   </br></br>
   <h2>Repositórios em revisão:</h2>
- <a href="https://github.com/Inajara/Mvc-basico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=Mvc-basico" />
-  </a>
   </br></br>
  <h2>Linguagens:</h2>
 </br>
