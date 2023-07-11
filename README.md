@@ -24,9 +24,6 @@
  <a href="https://github.com/Inajara/URI-resolvidos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=URI-resolvidos" />
   </a>
-  <a href="https://github.com/Inajara/WebAPI-MacorattiUdemyCurso">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=WebAPI-MacorattiUdemyCurso" />
-  </a>
   <a href="https://github.com/Inajara/MicrosservicosNET">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=MicrosservicosNET" />
   </a>
