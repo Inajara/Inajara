@@ -1,7 +1,8 @@
 <h1> Olá! Eu sou Inajara Silva Lemos </h1>
 </br>
 - 🔭 Starter .NET na GFT</br>
-- 😄 Pronomes: ela/dela
+- 😄 Pronomes: ela/dela</br>
+- :church: Católica
 </br></br>
 <h2>Como anda meu repositório:</h2>
 </br>
@@ -67,5 +68,15 @@ src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&l
   <a href = "mailto:inajaralemos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:inajaralemos1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+</br></br>
+  <h2>Links que eu acredito serem úteis para todos:</h2>
+  </br>
+  <a href="https://www.beecrowd.com.br/judge/en/login"><p>Beecrowd</p></a>
+  <a href="https://www.hackerrank.com/"><p>HackerRank</p></a>
+  <a href="https://www.codingame.com/start/"><p>Codingame</p></a>
+  <a href="https://tryhackme.com/"><p>TryHackMe</p></a>
+  <a href="https://www.w3schools.com/"><p>W3Schools</p></a>
+  <a href="https://www.datascienceacademy.com.br/"><p>DataScienceAcademy</p></a>
+  </br></br>
 
 ![snake gif](https://github.com/Inajara/Inajara/blob/output/github-contribution-grid-snake.svg)
