@@ -1,6 +1,7 @@
 <h1> Olá! Eu sou Inajara Silva Lemos </h1>
 </br>
-- 🔭 Starter .NET na GFT</br>
+- 👓 Dev Full Stack</br>
+- 🔭 Estudante de Ciência e Tecnologia, Ciência da Computação e Matemática na UFABC</br>
 - 😄 Pronomes: ela/dela</br>
 - :church: Católica
 </br></br>
