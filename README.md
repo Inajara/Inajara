@@ -14,24 +14,6 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Inajara"/>
 </div>
  </br></br>
- <h2>Repositórios favoritos:</h2>
- <a href="https://github.com/Inajara/portfolio-web-model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=portfolio-web-model" />
-  </a>
-  <a href="https://github.com/Inajara/noticias-climaticas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=noticias-climaticas" />
-  </a>
-  </br></br>
-  <h2>Repositórios em incubação:</h2>
- <a href="https://github.com/Inajara/URI-resolvidos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=URI-resolvidos" />
-  </a>
-  <a href="https://github.com/Inajara/MicrosservicosNET">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Inajara&repo=MicrosservicosNET" />
-  </a>
-  </br></br>
-  <h2>Repositórios em revisão:</h2>
-  </br></br>
  <h2>Linguagens:</h2>
 </br>
   <div style="display: inline_block"><br>
