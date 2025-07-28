@@ -3,7 +3,7 @@
 ### **Security & Infrastructure Specialist**  
 🔹 **Expertise:** Patch Management (Windows/Linux), Vulnerability Mitigation, IT Governance.  
 🔹 **Ferramentas:** Ansible, OpenSCAP, Wazuh, PowerShell, Bash.  
-🔹 **Atualmente:** Analista de Cloud Jr. | Estudando AI-900.  
+🔹 **Atualmente:** Analista de Cloud Jr. | Estudando *******.  
 
 ## 🚀 Projetos em Destaque  
 - [PowerShell Scripts](https://github.com/Inajara/PowerShell): Automação de tarefas em Windows Server.  
